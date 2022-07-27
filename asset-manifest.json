@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/uuhib/twitter/static/css/main.75de0842.css",
-    "main.js": "/uuhib/twitter/static/js/main.a33d672f.js",
+    "main.js": "/uuhib/twitter/static/js/main.dc9dc50a.js",
     "static/js/38.971fdff4.chunk.js": "/uuhib/twitter/static/js/38.971fdff4.chunk.js",
     "static/js/593.05918ba3.chunk.js": "/uuhib/twitter/static/js/593.05918ba3.chunk.js",
     "static/js/805.8e036b40.chunk.js": "/uuhib/twitter/static/js/805.8e036b40.chunk.js",
     "index.html": "/uuhib/twitter/index.html",
     "main.75de0842.css.map": "/uuhib/twitter/static/css/main.75de0842.css.map",
-    "main.a33d672f.js.map": "/uuhib/twitter/static/js/main.a33d672f.js.map",
+    "main.dc9dc50a.js.map": "/uuhib/twitter/static/js/main.dc9dc50a.js.map",
     "38.971fdff4.chunk.js.map": "/uuhib/twitter/static/js/38.971fdff4.chunk.js.map",
     "593.05918ba3.chunk.js.map": "/uuhib/twitter/static/js/593.05918ba3.chunk.js.map",
     "805.8e036b40.chunk.js.map": "/uuhib/twitter/static/js/805.8e036b40.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75de0842.css",
-    "static/js/main.a33d672f.js"
+    "static/js/main.dc9dc50a.js"
   ]
 }
