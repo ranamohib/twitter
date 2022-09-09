@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunktwitter=self.webpackChunktwitter||[]).push([[805],{9805:function(e,t,n){n.r(t),n.d(t,{default:function(){return s}});var r=n(184);function s(){return(0,r.jsx)("div",{children:(0,r.jsx)("main",{className:"h-screen w-screen flex justify-center items-center",children:(0,r.jsx)("p",{className:"text-4xl font-bold",children:"There's nothing here!"})})})}}}]);
-//# sourceMappingURL=805.6b9020e5.chunk.js.map
